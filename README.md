@@ -3,11 +3,6 @@
 # NIM: 312410171
 # Mata Kuliah: Pemrograman Web
 
-# Tujuan
-Kamu membuat website sederhana dengan tiga halaman. Kamu mempraktikkan struktur HTML, navigasi, dan penggunaan CSS.
-
-# Dasar Teori
-HTML menyusun struktur halaman. CSS mengatur tampilan. Navigasi digunakan supaya pengguna bisa berpindah halaman. Setiap halaman dipisah menjadi file berbeda agar mudah dikelola.
 # Tugas 
 
 <img width="666" height="402" alt="Image" src="https://github.com/user-attachments/assets/70fec0f5-1869-4459-9377-b5d1204a4493" /> # 
